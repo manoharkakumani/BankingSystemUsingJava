@@ -70,7 +70,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`) VALUES
-(1, 'kakumani', 'kakumani');
+(1, 'admin', 'admin');
 
 -- --------------------------------------------------------
 
