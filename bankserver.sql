@@ -98,7 +98,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `occupation`, `email`, `acno`, `actype`, `balance`, `branch`, `phone`, `address`) VALUES
-(1, 'K.MANOHAR', 'manohar', 'manohar', 'Student', 'manoharkakumani@gmail.com', '160040342', 'Savings', 100322, 'Tangutur', '8186025553', 'Tangutur');
+(1, 'K.MANOHAR', 'manohar', 'manohar', 'Student', 'manomanukakumani@gmail.com', '160040342', 'Savings', 100322, 'ABCDEFG', '1234567890', 'ABCDEFG');
 
 --
 -- Indexes for dumped tables
