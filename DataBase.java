@@ -26,7 +26,8 @@ public class DataBase {
             System.out.println(ex);
         }
         System.out.println("============================================================================");
-        System.out.println("***************************     OOPS PROJECT    ****************************");
+        System.out.println("***************************     JAVA PROJECT    ****************************");
+	System.out.println("******************                   ON                  *******************");
         System.out.println("*************************      BANKING SYSTEM        ***********************");
         System.out.println("******************                   BY                  *******************");
         System.out.println("***************               KAKUMANI MANOHAR                **************");
