@@ -94,6 +94,7 @@ switch(a){
 			this.clearScreen();
 		   username=null;
            password=null;
+	   acno=null;
            Login l=new Login();
         } 
           break; 
