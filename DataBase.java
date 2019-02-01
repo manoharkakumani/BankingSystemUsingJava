@@ -29,7 +29,7 @@ public class DataBase {
         System.out.println("***************************     OOPS PROJECT    ****************************");
         System.out.println("*************************      BANKING SYSTEM        ***********************");
         System.out.println("******************                   BY                  *******************");
-        System.out.println("***************               KAKUMANI Manohar                **************");
+        System.out.println("***************               KAKUMANI MANOHAR                **************");
     	System.out.println("============================================================================\n");
     }       
     }
