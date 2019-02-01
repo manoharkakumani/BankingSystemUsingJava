@@ -61,7 +61,7 @@ try{
      }
      else if(acno.equals(ano)){
       System.out.println("\n********************************");
-      System.out.println("*Acount Number is Alredy in Use*");
+      System.out.println("*Account Number is Alredy in Use*");
       System.out.println("********************************\n");
         System.out.print("Enter New Account Number : ");
          acno=in.nextLine();
